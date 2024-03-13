@@ -5,9 +5,6 @@
 - Branch
 - Conflict 해결 방법 + Merge
 
-<<<<<<< HEAD
 <code>
-<p>README.md 작성</p>
+printf("README.md 수정중");
 </code>
-=======
->>>>>>> 774859cc7594749cd3c81528857918e54bf88029
